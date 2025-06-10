@@ -719,6 +719,9 @@ main {
   position: relative;
 }
 
+.text-error {
+  color: black;
+}
 
 /**
  * Кнопка для отправки изображения
